@@ -1,5 +1,5 @@
 <h1> HEY I AM ARPI PATEL</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">A passionate developer from India</h3> 
 
 
 - 🌱 I’m currently learning **python**
